@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28"
+   height="28"
+   viewBox="0 0 7.4083333 7.4083337"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="wubi98.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <rect
+       x="31.855198"
+       y="3.3424039"
+       width="106.48399"
+       height="105.06995"
+       id="rect34" />
+    <rect
+       x="28.584356"
+       y="30.87969"
+       width="37.66935"
+       height="37.460869"
+       id="rect28" />
+    <rect
+       x="33.940159"
+       y="38.629333"
+       width="40.772614"
+       height="37.110321"
+       id="rect22" />
+    <rect
+       x="48.589413"
+       y="50.415852"
+       width="102.52272"
+       height="77.951866"
+       id="rect12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="192.53133"
+     inkscape:cy="131.0209"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1206"
+     inkscape:window-height="909"
+     inkscape:window-x="477"
+     inkscape:window-y="141"
+     inkscape:window-maximized="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text10"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#73d216;fill-opacity:1;stroke:none;"
+       transform="translate(9.9536983,8.9958338)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.80787px;line-height:1.25;font-family:sans-serif;fill:#73d216;fill-opacity:1;stroke:none;stroke-width:0.0302486"
+       x="0.96760023"
+       y="5.4936557"
+       id="text18"
+       transform="scale(1.0053738,0.99465493)"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         x="0.96760023"
+         y="5.4936557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.80787px;font-family:'经典繁方篆';-inkscape-font-specification:'经典繁方篆, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#73d216;fill-opacity:1;stroke-width:0.0302486">五</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'经典繁方篆';-inkscape-font-specification:'经典繁方篆, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect22);fill:#73d216;fill-opacity:1;stroke:none;"
+       transform="translate(9.9536983,8.9958338)" />
+    <text
+       xml:space="preserve"
+       id="text26"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect28);fill:#73d216;fill-opacity:1;stroke:none;"
+       transform="translate(9.9536983,8.9958338)" />
+    <text
+       xml:space="preserve"
+       id="text32"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect34);fill:#73d216;fill-opacity:1;stroke:none;"
+       transform="translate(9.9536983,8.9958338)" />
+  </g>
+</svg>
